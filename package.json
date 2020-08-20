@@ -1,0 +1,22 @@
+{
+  "name": "recordingfinder",
+  "version": "1.0.0",
+  "description": "a website to allow students to access recorded meetings thorugh their links easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrabuddhaGope/recordingFinder.git"
+  },
+  "author": "Prabuddha Gope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrabuddhaGope/recordingFinder/issues"
+  },
+  "homepage": "https://github.com/PrabuddhaGope/recordingFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
